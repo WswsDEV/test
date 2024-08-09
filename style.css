@@ -1,0 +1,60 @@
+body {
+  background-color: rgb(136, 92, 90);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+h1 {
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+}
+h2 {
+  font-family: "Times New Roman", Times, serif;
+}
+h3 {
+  font-style: italic;
+}
+a {
+  color: slateblue;
+}
+nav ul li {
+  list-style-type: none;
+  display: inline;
+  margin-right: 10px;
+  margin-left: 10px;
+  color: papayawhip;
+}
+nav ul li a {
+  text-decoration: none;
+  color: rgb(198, 198, 7);
+}
+table,
+th,
+td {
+  border: 1px solid honeydew;
+  border-collapse: collapse;
+}
+tr {
+  background-color: palegoldenrod;
+}
+th,
+td {
+  vertical-align: top;
+  padding: 5px;
+  text-align: left;
+}
+th {
+  color: rgb(93, 58, 249);
+}
+td {
+  color: rgb(255, 100, 255);
+}
+#quotes {
+  padding: 30px;
+}
+article {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: bold;
+  font-size: larger;
+  font-stretch: narrower;
+  padding: 5px;
+  font-style: italic;
+}
